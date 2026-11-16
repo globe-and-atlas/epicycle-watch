@@ -1,0 +1,1 @@
+{"date": "2026-11-08", "project": "epicycle-watch", "effort": "extended", "what_constrained": "Moving labels in crowded poses and shared SDK emulator state", "what_worked": "Independent full-pose collision oracle, identity markers, compact joint assignment", "what_differently": "Prioritize boundary-constrained labels before greedy placement"}

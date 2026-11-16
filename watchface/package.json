@@ -1,0 +1,42 @@
+{
+  "name": "epicycle-watch",
+  "version": "0.1.0",
+  "private": true,
+  "author": "Daniel Bally",
+  "keywords": [
+    "pebble-app"
+  ],
+  "pebble": {
+    "displayName": "Epicycle",
+    "uuid": "504bda6a-9ba5-4645-b76b-3dc9f7e3c422",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "targetPlatforms": [
+      "emery",
+      "gabbro"
+    ],
+    "watchapp": {
+      "watchface": true
+    },
+    "capabilities": [
+      "configurable"
+    ],
+    "messageKeys": [
+      "Palette",
+      "Background",
+      "HourColor",
+      "MinuteColor",
+      "SecondColor",
+      "TimeFormat",
+      "DateFormat",
+      "Labels",
+      "DigitalTime"
+    ],
+    "resources": {
+      "media": []
+    }
+  },
+  "dependencies": {
+    "@rebble/clay": "1.1.0"
+  }
+}

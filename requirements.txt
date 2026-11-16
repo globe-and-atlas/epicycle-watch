@@ -1,0 +1,2 @@
+# Native QA tooling only; no runtime Python on the watch.
+Pillow==12.3.0

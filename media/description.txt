@@ -1,0 +1,12 @@
+Time, linked together.
+
+Epicycle turns the clock into a single moving chain. The hour hand begins at the center, the minute hand pivots from its tip, and the seconds hand follows the minute hand. Each hand keeps its familiar clock direction.
+
+• Color-matched numbers beside the hands make the chain easy to read.
+• Six palettes: Night, Paper, Mint, Ice, Graphite, and Monochrome.
+• Custom background and individual hand colors.
+• 12-hour, 24-hour, or watch-default number formatting.
+• Optional hand labels and digital time readout.
+• Optional date in ISO, US, or European format.
+
+Designed for Pebble Time 2 and Pebble Round 2. Settings are available through the Pebble app.
